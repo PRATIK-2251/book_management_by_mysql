@@ -12,3 +12,10 @@ npm init -y
 npm i express mysql2 cors
 npm i -g nodemon
 npm i dotenv
+
+<!-- Add .env file -->
+
+HOST = "localhost"
+USER = "root"
+PASSWORD = "##_\*\*##_"
+DATABASE = "database_name"
